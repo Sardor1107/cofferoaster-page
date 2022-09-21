@@ -1,0 +1,20 @@
+.foot {
+    background-color: #2C343E;
+    display: flex;
+    align-items: center;
+    padding: 47px 85px;
+  }
+  .foot__list {
+    margin-left: 103px;
+  }
+  .foot__logo {
+    margin-left: auto;
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .foot__enternet:hover path {
+    fill: #FDD6BA;
+  }
+  
